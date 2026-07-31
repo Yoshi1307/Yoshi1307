@@ -1,6 +1,6 @@
 ## Hallo, ich bin Joshua 👋
 
-Hier dokumentiere ich meinen Weg als Entwickler während meiner Ausbildung Ausbildung.
+Hier dokumentiere ich meinen Weg als Entwickler während meiner Ausbildung.
 
 ### Was du hier findest
 - Schulprojekteprojekte
